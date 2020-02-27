@@ -1,0 +1,14 @@
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\MainWindow.g.cs
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\App.g.cs
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along_MarkupCompile.cache
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along_MarkupCompile.lref
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\bin\Debug\Week 3 Code Along.exe.config
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\bin\Debug\Week 3 Code Along.exe
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\bin\Debug\Week 3 Code Along.pdb
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\MainWindow.baml
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.g.resources
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week_3_Code_Along.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.csproj.GenerateResource.cache
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.exe
+C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.pdb
