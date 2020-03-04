@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Week_3_code_along.Properties
+namespace Week_3_Independent.Properties
 {
 
 

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Week_3_code_along
+namespace Week_3_Independent
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,20 +23,6 @@ namespace Week_3_code_along
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Bark_Button_Click(object sender, RoutedEventArgs e)
-        {
-            Dog dog = new Dog();
-            dog.Bark();
-        }
-
-        private void SayName_Button_Click(object sender, RoutedEventArgs e)
-        {
-            string dogName = DogName.Text;
-            Dog dog = new Dog();
-            dog.Name = dogName;
-            dog.SayName();
         }
     }
 }
