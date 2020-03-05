@@ -12,3 +12,17 @@ C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code 
 C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.csproj.GenerateResource.cache
 C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.exe
 C:\Users\James\Documents\Visual Studio\New folder\Week 3 Code Along\Week 3 Code Along\obj\Debug\Week 3 Code Along.pdb
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\bin\Debug\Week 3 code along.exe.config
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\bin\Debug\Week 3 code along.exe
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\bin\Debug\Week 3 code along.pdb
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\MainWindow.g.cs
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\App.g.cs
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along_MarkupCompile.cache
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along_MarkupCompile.lref
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\MainWindow.baml
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along.g.resources
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week_3_code_along.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along.csproj.GenerateResource.cache
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along.exe
+C:\Users\James\Documents\Visual Studio\GIT\Week 3 Code Along\Week 3 code along\obj\Debug\Week 3 code along.pdb
