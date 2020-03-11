@@ -32,13 +32,17 @@ namespace Week_4_Code_along
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
-            Movie movie = new Movie(titleInput.Text, Convert.ToInt32(releaseYearInput.Text));
+            Movie movie = new Movie(titleInput.Text, Convert.ToInt32(releaseYearInput.Text), Convert.ToDouble(rottenTomatoesInput.Text));
+
+
 
             movieList.Add(movie);
 
             titleInput.Clear();
 
             releaseYearInput.Clear();
+
+            rottenTomatoesInput.Clear();
 
             MessageBox.Show("Movie successfully added!");
         }
@@ -61,5 +65,9 @@ namespace Week_4_Code_along
             }
         }
 
+        private void RottenTomatoes_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

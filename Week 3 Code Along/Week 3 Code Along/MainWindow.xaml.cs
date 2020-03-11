@@ -33,10 +33,19 @@ namespace Week_3_code_along
 
         private void SayName_Button_Click(object sender, RoutedEventArgs e)
         {
-            string dogName = DogName.Text;
-            Dog dog = new Dog();
-            dog.Name = dogName;
-            dog.SayName();
+            //string dogName = DogName.Text;
+            //Dog dog = new Dog();
+            //dog.Name = dogName;
+            //dog.SayName();
+
+            Goose goose = new Goose();
+            goose.Name = "GooseName";
+            goose.Age = 9001;
+            goose.AttackDamage = 9999999;
+
+            goose.Honk();
+            goose.Aquack();
+
         }
     }
 }
